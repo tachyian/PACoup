@@ -54,7 +54,8 @@ function [ miMat, phaseMat, time, lowFreq, phaseMax] = pacogram( lfp, twin, tste
 %
 %       phaseMax: vector with the maximum phase of PAC over time (rad)
 %
-%   Authors: David Escobar & Luke Johnson 
+%   Authors: David Escobar & Luke Johnson
+%   Reviewed by Jaejin Lee
 
 %%
 fsize = 16;
