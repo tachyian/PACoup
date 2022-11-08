@@ -56,6 +56,7 @@ function [ miMat, phaseMat, time, lowFreq, phaseMax] = pacogram( lfp, twin, tste
 %
 %   Authors: David Escobar & Luke Johnson
 %   Reviewed by Jaejin Lee
+%   Added a line...
 
 %%
 fsize = 16;
